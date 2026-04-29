@@ -22,8 +22,6 @@ Tracking successful logins (Event ID 4624).
 Tracking Kerberos failure (Event ID 4771).
 Account lockout detection.
 
-* Screenshots - 
-
 
 * Skills Demonstrated - 
   
